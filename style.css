@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(239, 224, 225);
+}
+.head{
+    text-align: center;
+}
+h1{
+    font-size: 35px;
+}
+
+h3{
+    font-size: 50px;
+    text-align: center;
+    color: red;
+}
+
+p{
+    font-size: medium;
+    font-size: 15px;
+}
+
+#container{
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 30px;
+    margin: 10px 80px; 
+}
